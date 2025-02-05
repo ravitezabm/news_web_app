@@ -1,0 +1,1 @@
+# This is a news showing web app using news.org api
